@@ -1,0 +1,8 @@
+{
+  "name": "discord-rpc-bridge",
+  "version": "1.0.0",
+  "description": "A node module for chrome extensions which would like to utilize discords RPC server without having to install applications onto the users machine",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
